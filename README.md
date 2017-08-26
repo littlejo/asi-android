@@ -1,6 +1,6 @@
 # Arret sur images sur Android
 
-Ceci est la reprise du code de Benoit Valot.
+Ceci est la reprise du code de Benoit Valot (https://code.google.com/archive/p/arretsurimage-on-android/).
 
 Les buts du projet sont :
 
