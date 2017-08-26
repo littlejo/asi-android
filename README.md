@@ -9,7 +9,7 @@ Les buts du projet sont :
 * améliorer l'application
 
 
-# Ancienne indication
+# Anciennes indications
 
 Copyright Valot Benoit 2010
 Ce programme est publié sous licence GPL v3.
